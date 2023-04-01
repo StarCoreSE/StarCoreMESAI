@@ -823,6 +823,45 @@
     </SpawnGroup>
 
 
+    <!--PART TWO-->
+
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <!--Do Not Edit-->
+        <SubtypeId>SpawnMCEKarlFac2</SubtypeId>
+      </Id>
+      <Description>
+
+        [Modular Encounters SpawnGroup]
+        [UseRivalAi:true]
+        [RivalAiReplaceRemoteControl:true]
+        [ReplenishSystems:true]
+
+
+        [SpawnConditionsProfiles:SCSpawnCondition2]
+
+
+      </Description>
+      <IsPirate>true</IsPirate>
+      <!--Do not edit-->
+      <Frequency>5.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="MCEKarl">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+
+
+
+
     <!--Do Not Edit Below Here-->
 	</SpawnGroups>
 </Definitions>
