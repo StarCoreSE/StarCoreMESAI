@@ -321,19 +321,19 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
 
         [ChatMessages:I'm taking hull damage!]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
         [ChatMessages:BLUE. HURT.]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
         [ChatMessages:They got through the shields!]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
         [ChatMessages:Armor integrity is decreasing.]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
       </Description>
     </EntityComponent>
@@ -359,11 +359,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
 
         [ChatMessages:I'm outside of the combat area!]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
         [ChatMessages:We're taking HarmZone™ damage!]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
 
       </Description>
@@ -390,11 +390,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
 
         [ChatMessages:I'm inside of the zone.]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
         [ChatMessages:My legs are OK.]
         [BroadcastChatType:Chat]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
 
 
       </Description>
@@ -420,11 +420,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:Where's the other half of the ship?!]
-        [ChatAudio:ArcHudGPSNotification1]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:It's okay, we're still flying half of a ship.]
-        [ChatAudio:ArcHudGPSNotification1]
+        
         [BroadcastChatType:Chat]
 
       </Description>
@@ -450,11 +450,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:I see the enemy!]
-        [ChatAudio:ArcHudGPSNotification1]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Engaging a target.]
-        [ChatAudio:ArcHudGPSNotification1]
+        
         [BroadcastChatType:Chat]
 
       </Description>
@@ -479,11 +479,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:Reacquiring target.]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Refreshing target.]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
       </Description>
@@ -508,19 +508,19 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:We've lost control. [DED]]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:We're dead in the water. [DED]]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Control is offline. [DED]]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:OMNISSIAH GUIDE MY SHIP [DED]]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
       </Description>
@@ -546,19 +546,19 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:Most weapons are down.]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Stop targeting weapons, asshole!]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Guns are going offline.]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Offensive systems compromised.]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
       </Description>
@@ -584,11 +584,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:IT'S TIME]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:AAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
 
@@ -615,11 +615,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:Trying to gain range.]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:I'm going to back off a bit.]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
 
@@ -646,11 +646,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:It's as shrimple as that]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Get rotated idiot]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
 
@@ -678,11 +678,11 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:Too close for comfort!]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
         [ChatMessages:Stop trying to ram me!]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
 
@@ -710,7 +710,7 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:Avenge me, O Crustacean!]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
 
@@ -739,7 +739,7 @@ FUCK. You can ignore the requirement with [IgnoreAntennaRequirement:true]. the m
         [IgnoredAntennaRangeOverride:20000]
 
         [ChatMessages:Firing on/off (10s)]
-        [ChatAudio:ArcHudQuestlogDetail]
+        
         [BroadcastChatType:Chat]
 
 
