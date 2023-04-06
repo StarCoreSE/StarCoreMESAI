@@ -1596,7 +1596,7 @@
       </Description>
       <IsPirate>true</IsPirate>
       <!--Do not edit-->
-      <Frequency>0.0001</Frequency>
+      <Frequency>0.1</Frequency>
       <Prefabs>
         <Prefab SubtypeId="AugChimera">
           <Position>
@@ -1720,7 +1720,7 @@
       </Description>
       <IsPirate>true</IsPirate>
       <!--Do not edit-->
-      <Frequency>0.0001</Frequency>
+      <Frequency>0.1</Frequency>
       <Prefabs>
         <Prefab SubtypeId="AugChimera">
           <Position>
