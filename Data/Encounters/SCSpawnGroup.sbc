@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/29901/XMLSchema-instance" xmlns:xsd="http://www.w3.org/29901/XMLSchema">
-  <SpawnGroups>
-    <!--Do Not Edit Above Here-->
+	<SpawnGroups>
+	<!--Do Not Edit Above Here-->
 
     <!--FACTION 1-->
-
+    
     <SpawnGroup>
       <Id>
         <TypeId>SpawnGroupDefinition</TypeId>
@@ -16,7 +16,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -50,7 +50,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -84,7 +84,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -118,7 +118,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -152,7 +152,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -186,7 +186,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -208,7 +208,7 @@
         </Prefab>
       </Prefabs>
     </SpawnGroup>
-
+    
     <SpawnGroup>
       <Id>
         <TypeId>SpawnGroupDefinition</TypeId>
@@ -220,7 +220,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -254,7 +254,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -288,7 +288,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -322,7 +322,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -356,7 +356,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -390,7 +390,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -424,7 +424,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -458,7 +458,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -492,7 +492,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -526,7 +526,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -560,7 +560,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -594,7 +594,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -628,7 +628,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -662,7 +662,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -696,7 +696,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -730,7 +730,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -764,7 +764,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -798,7 +798,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -835,7 +835,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -869,7 +869,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -903,7 +903,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -937,7 +937,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -971,7 +971,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1005,7 +1005,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1027,7 +1027,7 @@
         </Prefab>
       </Prefabs>
     </SpawnGroup>
-
+    
     <SpawnGroup>
       <Id>
         <TypeId>SpawnGroupDefinition</TypeId>
@@ -1039,7 +1039,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1073,7 +1073,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1107,7 +1107,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1141,7 +1141,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1175,7 +1175,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1209,7 +1209,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1243,7 +1243,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1277,7 +1277,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1311,7 +1311,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1345,7 +1345,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1379,7 +1379,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1413,7 +1413,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1447,7 +1447,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1481,7 +1481,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1515,7 +1515,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1549,7 +1549,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -1573,7 +1573,7 @@
     </SpawnGroup>
 
 
-
+    
     <!--EXTREMELY LAGGY?-->
 
     <SpawnGroup>
@@ -1587,7 +1587,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition1]
@@ -2027,7 +2027,7 @@
         [Modular Encounters SpawnGroup]
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
-        [ReplenishSystems:true]   [RandomizeWeapons:true]
+        [ReplenishSystems:true]
 
 
         [SpawnConditionsProfiles:SCSpawnCondition2]
@@ -2459,5 +2459,5 @@
 
 
     <!--Do Not Edit Below Here-->
-  </SpawnGroups>
+	</SpawnGroups>
 </Definitions>
